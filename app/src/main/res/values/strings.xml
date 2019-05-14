@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EmailDemo</string>
+
+    <string name="main_box">Main Box</string>
+    <string name="spam_box">Spam Box</string>
+    <string name="tab_icon_description">Tab icon</string>
 </resources>
